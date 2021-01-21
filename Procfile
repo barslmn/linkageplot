@@ -1,1 +1,1 @@
-web: voila index.ipynb --port=$PORT --no-browser
+web: voila --port=$PORT --no-browser index.ipynb
